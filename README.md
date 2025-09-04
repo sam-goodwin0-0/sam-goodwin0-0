@@ -11,8 +11,8 @@ I'm currently dabbling in many different **programming languages**:
 - Python
 - HTML
 - CSS
-- JavaScript
 - Matlab
+- C++
 
 🌱
 <!--
