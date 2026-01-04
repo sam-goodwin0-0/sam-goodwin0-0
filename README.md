@@ -7,12 +7,12 @@ Hi! My name is Sam  :) I'm currently studying to get my ***Bachelors in Computer
 
 ### My Experience
 Coding has been a passion of mine since I was very young, but I didn't properly get into it until Grade 10 when I started taking Cambridge (CIE) Computer Science at school. 
-I'm currently dabbling in many different **programming languages**:
+I'm currently dabbling in several **programming languages**:
 - Python
-- HTML
-- CSS
-- Matlab
 - C++
+- Matlab
+I hope to extend this list soon!
+
 
 🌱
 <!--
