@@ -10,6 +10,7 @@ Coding has been a passion of mine since I was very young, but I didn't properly 
 I'm currently dabbling in several **programming languages**:
 - Python
 - C++
+- Java
 - Matlab
 
 I hope to extend this list soon!
